@@ -5,6 +5,8 @@
 	DotNetCore 2.0
 	RabbitMQ.Client
 
+	PostMan to post json messages to WebAPI
+	
 # Supported WebAPI Methods:
 	To post/add Author resource
 		http://localhost:62920/api/Author/Add

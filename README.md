@@ -1,7 +1,7 @@
 # RabbitWeApiDemo
 
 # Pre-Requisite:
-	RabbitMQ, Erlang
+	RabbitMQ (with default credentials as guest), Erlang
 	DotNetCore 2.0
 	RabbitMQ.Client
 
